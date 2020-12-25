@@ -18,7 +18,7 @@ Even if the user and host are the same, they can still be distinguished in ~/.ss
 	Host gitolite-as-bob
 	HostName git.company.com
 	User git
-	IdentityFile /home/whoever/.ssh/id_dsa.bob
+	IdentityFile ~/.ssh/id_dsa.bob
 	IdentitiesOnly yes
 
 Then you just use gitolite-as-alice and gitolite-as-bob instead of the hostname in your URL:
