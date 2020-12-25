@@ -1,8 +1,11 @@
 # tips
 
-# referencs
-## https://stackoverflow.com/questions/7927750/specify-an-ssh-key-for-git-push-for-a-given-domain
-## https://coderwall.com/p/7smjkq/multiple-ssh-keys-for-different-accounts-on-github-or-gitlab
+
+# Multiple SSH keys for different accounts on Github or Gitlab
+
+## referencs
+#### https://stackoverflow.com/questions/7927750/specify-an-ssh-key-for-git-push-for-a-given-domain
+#### https://coderwall.com/p/7smjkq/multiple-ssh-keys-for-different-accounts-on-github-or-gitlab
 
 	Host gitolite-as-alice
 	HostName git.company.com
